@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-image: url("https://i.stack.imgur.com/34Ixv.jpg");
+  background-repeat: no-repeat;
+  background-size: 825px 625px;
+  background-position: center 0%;
+
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
